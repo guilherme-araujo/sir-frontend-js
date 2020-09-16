@@ -1,4 +1,4 @@
-#SIR simulations on the frontend
+# SIR simulations on the frontend
 
 This is a first attempt to implement a visual SIR live simulation using React.
 
